@@ -29,4 +29,4 @@ AAEAE.csv
 ## ACKNOWLEDGEMENT
 Thank you for running our code and feel free to contact us with suggestions!
 ## SUPPORT
-Stuck? Feel free to contact irisyjchang@gmail.com if you have run into any issues!
+Stuck? Feel free to contact us if you have run into any issues!
