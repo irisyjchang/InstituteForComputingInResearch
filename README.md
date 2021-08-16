@@ -7,7 +7,7 @@ use the package manager [pip](https://pypi.org/project/pip/) to install lexrank
 pip install lexrank
 ```
 ## PURPOSE
-EVALUATING NLP SUMMARIZATION BIAS (ETHNICITY) IN TWITTER (AE (AMERICAN ENGLISH) & AAE (AFRICAN AMERICAN ENGLISH))
+EVALUATING NLP SUMMARIZATION BIAS (DIALECT) IN TWITTER (AE (AMERICAN ENGLISH) & AAE (AFRICAN AMERICAN ENGLISH))
 ## DESCRIPTION
 ### BACKGROUND
 Natural language processing (NLP) is a beautiful subfield of computer science, linguistics, and artificial intelligence. Its focus on human and computer language interaction through manipulating and analyzing massive quantities of natural language data aims to understand contents like a regular human being, further advancing the daily lives of many with technology. With technology promptly progressing, it is typical that people overlook the withholdings that follow, especially dialect bias in summarization. Everybody's voice deserves to be heard, but when it comes to natural language processing, popular summarization methods such as lexrank disappoints.
