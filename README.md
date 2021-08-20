@@ -18,6 +18,7 @@ The suggested bias evaluation metric is simple and efficient- it calculates the 
 # run the following in the terminal
 python3 ./LEXRANK.py < input.txt
 ```
+you can edit input.txt to the file names and sample numbers you want
 ## ACKNOWLEDGEMENT
 Thank you for running our code and feel free to contact us with suggestions!
 ## SUPPORT
