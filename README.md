@@ -19,7 +19,7 @@ The suggested bias evaluation metric is simple and efficient- it calculates the 
 python3 code.py
 # type the datasets you want to run out of ae, aae, and hae and press enter after typing each one
 # type enter when you are done
-# type in a sample size (has to be an integar)
+# type in a sample size (has to be an integer)
 ```
 you can edit input.txt to the file names and sample numbers you want
 ## ACKNOWLEDGEMENT
