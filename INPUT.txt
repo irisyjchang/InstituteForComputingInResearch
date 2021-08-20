@@ -1,0 +1,7 @@
+HAE
+AAE
+AE
+
+5
+
+python3 ./LEXRANK.py < input.txt
