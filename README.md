@@ -16,7 +16,7 @@ The suggested bias evaluation metric is simple and efficient- it calculates the 
 ## STEPS
 ```python 
 # run the following in the terminal
-python3 ./LEXRANK.py < input.txt
+python3 ./code.py < input.txt
 ```
 you can edit input.txt to the file names and sample numbers you want
 ## ACKNOWLEDGEMENT
